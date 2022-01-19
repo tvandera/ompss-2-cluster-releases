@@ -4,3 +4,6 @@
 [submodule "mcxx"]
 	path = mcxx
 	url = https://github.com/bsc-pm/mcxx.git
+[submodule "nanos6-argodsm"]
+	path = nanos6-argodsm
+	url = https://github.com/epeec/nanos6-argodsm.git
